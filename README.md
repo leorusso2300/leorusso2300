@@ -1,15 +1,15 @@
 ### Olá, eu sou o Leonardo Russo! 😄
 
 - 🌱 Atualmente estudando desenvolvimento web java fullstack na Generation Brasil
-- 👯 Espero que algum dos meus códigos seja útil a você :D
+- 🤝 Espero que algum dos meus códigos seja útil a você :D
 - 📫 Meu e-mail é: leorusso2607@gmail.com
 - 😄 Pronomes: ele/dele
 
 
 <div>
   <a href="https://github.com/leorusso2300">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leorusso2300&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorusso2300&layout=compact&langs_count=7&theme=tokyonight">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leorusso2300&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorusso2300&layout=compact&langs_count=7&theme=tokyonight">
 </div>
   
   ##
@@ -31,5 +31,6 @@
   
  <div> 
   <a href = "mailto:leorusso2607@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardogabri/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/leonardogabri/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/leonardogabri/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
