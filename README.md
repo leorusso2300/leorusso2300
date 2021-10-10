@@ -1,7 +1,7 @@
 ### Olá, eu sou o Leonardo Russo mas pode me chamar de Léo! 😄
 
 - 🌱 Atualmente estudando desenvolvimento web java fullstack na Generation Brasil
-- 🤝 Espero que algum dos meus códigos seja útil a você :D
+- 🤝 Espero que algum dos meus códigos seja útil a você :)
 - 📫 Meu e-mail é: leorusso2607@gmail.com
 - 😄 Pronomes: ele/he
 
