@@ -1,4 +1,4 @@
-### Olá, eu sou o Leonardo Russo! 😄
+### Olá, eu sou o Leonardo Russo mas pode me chamar de Léo! 😄
 
 - 🌱 Atualmente estudando desenvolvimento web java fullstack na Generation Brasil
 - 🤝 Espero que algum dos meus códigos seja útil a você :D
