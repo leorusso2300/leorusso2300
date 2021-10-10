@@ -4,7 +4,7 @@
 - 👯 Espero que algum dos meus códigos seja útil a você :D
 - 📫 Meu e-mail é: leorusso2607@gmail.com
 - 😄 Pronomes: ele/dele
-- ⚡ Fun fact: Sou apaixonado por programação 💟
+
 
 <div>
   <a href="https://github.com/leorusso2300">
