@@ -28,3 +28,6 @@
   <img align="center" alt="Leo-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
   <img align="right" alt="" height="150" style="border-radius:50px;" src="">
 </div>
+
+  ![Snake animation](https://github.com/leorusso2300/leorusso2300/blob/output/github-contribution-grid-snake.svg)
+</div>
