@@ -17,7 +17,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorusso2300&layout=compact&langs_count=7&theme=dark">
  </a>
 </div>
-<div> 
  💻 essas são as tecnologias que eu tenho algum tipo de conhecimento:
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -29,4 +28,3 @@
  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?&style=for-the-badge&logo=bootstrap&logoColor=white)
  ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
  ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
-</div>
