@@ -5,6 +5,8 @@
 - 📫 Meu e-mail é: leorusso2607@gmail.com
 - 😄 Pronomes: ele/he
 
+✨ fique à vontade para entrar em contato:
+
  <div> 
  
   <a href="https://www.linkedin.com/in/leonardogabri/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
