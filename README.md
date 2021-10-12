@@ -5,7 +5,7 @@
 - 📫 Meu e-mail é: leorusso2607@gmail.com
 - 😄 Pronomes: ele/he
 
-✨ fique à vontade para entrar em contato:
+📞 fique à vontade para entrar em contato:
 
  <div> 
  
