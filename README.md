@@ -21,7 +21,6 @@
 
 
 
- 💻 essas são as tecnologias que eu tenho algum tipo de conhecimento:
  
  
  <a href="https://github.com/leorusso2300/leorusso2300">
