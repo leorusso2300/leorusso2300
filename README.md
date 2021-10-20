@@ -1,4 +1,4 @@
-### <span style = backgroud-color="blue";> Olá, eu sou o Leonardo Russo mas pode me chamar de Léo! 😄 </span>
+### <span style = background-color="blue";> Olá, eu sou o Leonardo Russo mas pode me chamar de Léo! 😄 </span>
 
 - 👨‍💻 Atualmente estudando desenvolvimento web java fullstack na Generation Brasil
 - 🤝 Espero que algum dos meus códigos seja útil a você :)
