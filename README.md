@@ -1,4 +1,4 @@
-### <h1 font-color = "blue">Olá, eu sou o Leonardo Russo mas pode me chamar de Léo! 😄</h1>
+### <h1 font color = "blue">Olá, eu sou o Leonardo Russo mas pode me chamar de Léo! 😄</h1>
 
 - 👨‍💻 Atualmente estudando desenvolvimento web java fullstack na Generation Brasil
 - 🤝 Espero que algum dos meus códigos seja útil a você :)
