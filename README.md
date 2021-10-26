@@ -6,7 +6,7 @@
 
 📞 fique à vontade para entrar em contato:
 
- [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardorussodev/)](https://www.linkedin.com/in/leonardorussodev/)
+ [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardorussodev/)](https://www.linkedin.com/in/leonardorussodev/ target="_blank")
 [![Gmail](https://img.shields.io/badge/-leorusso2607@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:leorusso2607@gmail.com)](mailto:leorusso2607@gmail.com)
  <a href="http://wa.me/5515998248005" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
