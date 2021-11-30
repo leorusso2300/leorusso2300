@@ -1,7 +1,8 @@
 ### <p font color = "blue">Olá, eu sou o Leonardo Russo mas pode me chamar de Léo! 😄</h1>
-- 👨🏽‍💻 Desenvolvedor Full Stack formado pela Generation Brasil e pela Etec de São Roque
+- 👨🏽‍💻 Buscando trabalho na área de desenvolvimento.
+- 👨🏽‍🎓 Desenvolvedor Full Stack formado pela Generation Brasil e pela Etec de São Roque
 - 🤝 Espero que algum dos meus códigos seja útil a você :)
-- 😄 Pronomes: ele/he
+
 
 📞 fique à vontade para entrar em contato:
 
