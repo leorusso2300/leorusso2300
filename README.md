@@ -1,6 +1,3 @@
-### <p font color = "blue">Olá, eu sou o Leonardo Russo mas pode me chamar de Léo! 😄</h1>
-- 👨🏽‍💻 Fun fact: eterno estudante e explorador do mundo da tecnologia 🗺️
-- 🤝 Espero que algum dos meus códigos seja útil a você :)
 
 
 📞 fique à vontade para entrar em contato:
